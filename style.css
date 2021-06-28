@@ -1,0 +1,25 @@
+.content{
+    margin-top: 100px;
+    margin-left: 500px;
+    height: 400px;
+    width: 700px;
+    background-color: #D9D0C1;
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+}
+.content-inner{
+    margin-left:50px;
+    margin-top: 100px;
+}
+li{
+
+    color: #012340;
+}
+.list{
+    margin-top: 50px;
+}
+.btn btn-outline-info{
+    margin-left: 100px;
+}
